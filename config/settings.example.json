@@ -1,0 +1,6 @@
+{
+  "timeout": 20.0,
+  "max_retries": 3,
+  "user_agent": "AdvancedClutchScraper/1.0 (+https://bitbash.dev)",
+  "concurrency": 4
+}
