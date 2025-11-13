@@ -1,0 +1,97 @@
+[
+  {
+    "summary": {
+      "name": "BairesDev",
+      "logo": "https://img.shgstatic.com/clutch-static-prod/image/scale/50x50/s3fs-public/logos/f3e3df4a19a84fe69d07e85846d4e0cb.png",
+      "tagLine": "🟠 Software Outsourcing & Dev | 500 Active Clients",
+      "description": "Looking for a few extra hands? Or perhaps outsourcing your software development from concept to code? Access 4,000+ Senior Software Engineers ...",
+      "totalReview": "59",
+      "rating": "4.9",
+      "verificationStatus": "Premier Verified",
+      "minProjectSize": "$50,000+",
+      "averageHourlyRate": "$50 - $99 / hr",
+      "employees": "1,000 - 9,999",
+      "founded": "Founded 2009",
+      "video_url": "https://www.youtube.com/embed/xpj7ZupdgEI",
+      "languages": [
+        "English",
+        "Spanish",
+        "Portuguese"
+      ],
+      "timezones": [
+        "Argentina Standard Time (AGT)",
+        "Brazil Eastern Time (BET)",
+        "Central European Time (CET)",
+        "Eastern Standard Time (EST)",
+        "Pacific Standard Time (PST)",
+        "Universal Coordinated Time (UTC)"
+      ]
+    },
+    "addresses": [
+      {
+        "title": "Headquarters",
+        "streetAddress": "50 California Street",
+        "locality": "San Francisco, United States",
+        "region": "CA",
+        "country": "US",
+        "postalCode": "94111",
+        "locationEmployees": "2001 - 5000",
+        "telephone": "1 (408) 478-2739"
+      }
+    ],
+    "verification": {
+      "businessEntity": {
+        "name": "BAIRESDEV LLC",
+        "source": "California Secretary of State",
+        "jurisdictionOfFormation": "California",
+        "dateOfFormation": "October 4, 2012",
+        "status": "Active",
+        "lastUpdated": "February 26, 2022",
+        "ID": "201228710060"
+      },
+      "paymentLegalFilings": {
+        "bankruptcy": "Creditsafe",
+        "taxLienFilings": "January 1, 2022"
+      }
+    },
+    "chartPie": {
+      "service_provided": {
+        "legend_title": "Service Lines",
+        "slices": [
+          {
+            "percent": 0.3,
+            "PercentHundreds": 30,
+            "name": "Custom Software Development",
+            "url": "https://clutch.co/developers"
+          },
+          {
+            "percent": 0.2,
+            "PercentHundreds": 20,
+            "name": "Web Development",
+            "url": "https://clutch.co/web-developers"
+          }
+        ]
+      },
+      "focus": {
+        "charts": {}
+      },
+      "industries": {
+        "slices": []
+      },
+      "clients": {
+        "slices": []
+      }
+    },
+    "rating": {
+      "totalReview": "59",
+      "overallRating": "4.9"
+    },
+    "websiteUrl": "https://www.bairesdev.com",
+    "profileURL": "https://clutch.co/profile/bairesdev",
+    "reviews": [],
+    "reviewInsights": {
+      "topMentions": [],
+      "reviewHighlights": []
+    }
+  }
+]
