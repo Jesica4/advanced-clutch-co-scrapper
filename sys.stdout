@@ -1,0 +1,21 @@
+loggers:
+  clutch_client:
+    level: INFO
+    handlers: [console]
+    propagate: False
+  parsers:
+    level: INFO
+    handlers: [console]
+    propagate: False
+  pipelines:
+    level: INFO
+    handlers: [console]
+    propagate: False
+  utils:
+    level: INFO
+    handlers: [console]
+    propagate: False
+
+root:
+  level: INFO
+  handlers: [console]
